@@ -1,0 +1,9 @@
+Initial Access,Execution,Persistence,Privilege Escalation,Defense Evasion,Credential Access,Discovery,Collection,Command and Control,Exfiltration
+T1078.002,T1106,T1112,T1078.002,T1140,T1110.001,T1083,T1119,T1105,T1048.003
+,,T1078.002,,T1112,T1552.001,T1120,T1115,T1095,
+,,,,T1027,,T1057,T1074.001,T1090.003,
+,,,,T1078.002,,T1012,T1114.002,T1219,
+,,,,T1497.001,,T1018,,,
+,,,,,,T1082,,,
+,,,,,,T1016,,,
+,,,,,,T1497.001,,,
