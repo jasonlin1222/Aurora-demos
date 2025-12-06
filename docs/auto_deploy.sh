@@ -21,7 +21,7 @@ $VENV_NAME/bin/pip install attack-executor==0.2.2 \
 # Set default values without user interaction
 # read -p "Path to Sliver client config [default: ~/zer0cool.cfg]: " sliver_path
 # read -p "Metasploit RPC password [default: glycNshR]: " msf_pass
-sliver_path="$HOME/Desktop/Aurora-executor-demo/zer0cool.cfg"
+sliver_path="$HOME/Desktop/Aurora-demos/docs/attack_tools/zer0cool.cfg"
 msf_pass="123456"
 
 # Generate config file
