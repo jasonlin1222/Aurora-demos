@@ -28,7 +28,7 @@ def confirm_action(prompt: str = "Keep going with the next attack step?") -> boo
 async def main():
     print_welcome_message()
     from attack_executor.config import load_config
-    config = load_config(config_file_path="/home/kali/Desktop/Aurora-executor-demo/config.ini")
+    config = load_config(config_file_path="/home/kali/Desktop/Aurora-demos/docs/config.ini")
     from attack_executor.exploit.Metasploit import MetasploitExecutor
     metasploit_executor = MetasploitExecutor(config=config)
 
